@@ -1,7 +1,7 @@
 ### Experiment 1: Decentralized Certificate Verification
 # Name:GOKULNATH H
 # Reg no:212222040045
-# Date:26/04/2026
+
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 ## Algorithm:
